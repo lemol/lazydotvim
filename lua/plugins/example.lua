@@ -5,6 +5,9 @@ if true then
     {
       "pipoprods/nvm.nvim",
       config = true,
+    },
+    {
+      "mg979/vim-visual-multi",
     }
   }
 end
